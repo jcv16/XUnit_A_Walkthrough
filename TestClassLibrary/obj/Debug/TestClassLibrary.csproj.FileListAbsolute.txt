@@ -1,0 +1,4 @@
+c:\Users\jepoy\Documents\Visual Studio 2015\Projects\XUnit_PluralSight\TestClassLibrary\bin\Debug\TestClassLibrary.dll
+c:\Users\jepoy\Documents\Visual Studio 2015\Projects\XUnit_PluralSight\TestClassLibrary\bin\Debug\TestClassLibrary.pdb
+c:\Users\jepoy\Documents\Visual Studio 2015\Projects\XUnit_PluralSight\TestClassLibrary\obj\Debug\TestClassLibrary.dll
+c:\Users\jepoy\Documents\Visual Studio 2015\Projects\XUnit_PluralSight\TestClassLibrary\obj\Debug\TestClassLibrary.pdb
